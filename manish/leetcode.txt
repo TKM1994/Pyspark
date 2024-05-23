@@ -1,0 +1,8 @@
+convert above in below example format
+"
+customer_schema=['customer_id','customer_name','address','date_of_joining']
+customer_data = [(1,'manish','patna',"30-05-2022"),
+(2,'vikash','kolkata',"12-03-2023")]
+sales_schema=['customer_id','product_id','quantity','date_of_purchase']
+sales_data = [(1,22,10,"01-06-2022"),
+(1,27,5,"03-02-2023")]

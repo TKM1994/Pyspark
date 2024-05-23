@@ -1,0 +1,20 @@
+1,10/1/2023,2,Spice Paradise,Butter Chicken,2,250,500,1,Delivered,COD
+2,10/1/2023,3,Pizza Palace,Pepperoni Pizzza,1,300,300,1,Delivered,Card
+3,10/1/2023,2,Pizza Palace,Pepperoni Pizza,1,300,300,3,Delivered,UPI
+4,10/1/2023,1,Burger Bistro,Double Cheeseburger,1,499,499,2,Cancelled,Card
+5,10/2/2023,4,Burger Bistro,Cheeseburger,3,349,1047,1,Cancelled,UPI
+6,10/2/2023,2,Spice Paradise,Chicken Biryani,2,250,500,2,Delivered,COD
+7,10/2/2023,3,Spice Paradise,Chicken Biryani,2,250,500,1,Delivered,Card
+8,10/2/2023,1,Pizza Palace,Pepperoni Pizzza,1,300,300,1,In Progress,UPI
+9,10/3/2023,3,Pizza Palace,Hawaiian Pizza,1,299,299,1,Delivered,COD
+10,10/3/2023,3,Pizza Palace,Hawaiian Pizza,1,299,299,3,Delivered,Card
+11,10/3/2023,2,Burger Bistro,Veggie Burger,2,159,318,3,Delivered,COD
+12,10/3/2023,4,Spice Paradise,Chicken Biryani,2,250,500,1,Cancelled,UPI
+13,10/4/2023,1,Spice Paradise,Paneer Tikka,1,200,200,3,Delivered,UPI
+14,10/4/2023,2,Spice Paradise,Chicken Biryani,2,250,500,2,Delivered,Card
+15,10/4/2023,4,Pizza Palace,Margherita Pizza,1,399,399,3,Delivered,COD
+16,10/4/2023,2,Spice Paradise,Paneer Tikka,1,200,200,3,In Progress,Card
+17,10/4/2023,3,Burger Bistro,Double Cheeseburger,1,499,499,1,In Progress,UPI
+18,10/5/2023,3,Pizza Palace,Margherita Pizza,1,399,399,1,Delivered,UPI
+19,10/5/2023,2,Spice Paradise,Chicken Biryani,2,250,500,2,Cancelled,Card
+20,10/6/2023,1,Spice Paradise,Chana Masala,2,249,498,3,Delivered,COD

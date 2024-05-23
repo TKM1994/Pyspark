@@ -1,0 +1,24 @@
+Id,Name,Gender,Age,Salary,Loc,Desgn
+1,Tarun,M,29,95000,Bangalore,Data Scientist
+2,Prashant,M,23,120000,Hyderabad,Data Engineer
+3,Rajesh,M,24,60000,Bangalore,Data Scientist
+4,Soumya,M,26,45000,Hyderabad,Data Engineer
+5,Preetam,M,32,93000,Hyderabad,Data Analyst
+6,Preenit,M,30,87000,Bangalore,Data Analyst
+7,Swosti,M,30,110000,Hyderabad,Data Scientist
+8,Rashmi,M,36,120000,Chennai,Mlops Engineer
+9,Dipti,F,34,76000,Chennai,Data Engineer
+10,Namita,F,27,34000,Chennai,Data Analyst
+11,Swati,F,29,230000,Bangalore,Data Engineer
+12,Nitish,M,35,34000,Chennai,Data Scientist
+13,Pranjal,M,35,67000,Chennai,Mlops Engineer
+14,Anup,M,29,145000,Chennai,Data Engineer
+15,Sudhakar,M,29,34000,Bangalore,Mlops Engineer
+16,Asit,M,30,290000,Gurgaon,Data Analyst
+17,Swaroop,M,29,55000,Gurgaon,Data Engineer
+18,Chitta,M,29,29000,Gurgaon,Mlops Engineer
+19,Pradyumna,M,29,178000,Bangalore,Data Scientist
+20,Debasish,M,37,289000,Gurgaon,Mlops Engineer
+21,Sunil,M,56,34000,Gurgaon,Data Analyst
+22,Shakti,M,13,129000,Hyderabad,Mlops Engineer
+23,Amit,M,15,23000,Bangalore,Data Scientist

@@ -1,0 +1,11 @@
+customer_id, customer_fname, customer_lname, customer_email, customer_password, customer_street, customer_city, customer_state, customer_zipcode
+101, John, Smith, john@example.com, password1, 123 Main St, Anytown, CA, 12345
+102, Alice, Johnson, alice@example.com, password2, 456 Elm St, Sometown, NY, 67890
+103, Michael, Williams, michael@example.com, password3, 789 Oak St, Anycity, TX, 13579
+104, Emily, Jones, emily@example.com, password4, 101 Pine St, Othertown, FL, 24680
+105, David, Brown, david@example.com, password5, 222 Maple St, Somewhere, WA, 97531
+106, Sarah, Martinez, sarah@example.com, password6, 333 Cedar St, Anywhere, OR, 86420
+107, Jessica, Anderson, jessica@example.com, password7, 444 Birch St, Nowhere, AZ, 64238
+108, Matthew, Taylor, matthew@example.com, password8, 555 Walnut St, Elsewhere, NV, 34729
+109, Lauren, Garcia, lauren@example.com, password9, 666 Pineapple St, Elsewhere, CA, 82394
+110, Christopher, Hernandez, christopher@example.com, password10, 777 Cherry St, Anycity, GA, 56789
